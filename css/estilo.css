@@ -1,0 +1,22 @@
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{
+    background: radial-gradient(ellipse, rgb(255, 255, 255), rgb(208, 210, 211), rgb(99, 99, 99));
+      }
+.h2 {color: rgb(100, 100, 100);}
+footer{
+    display: flex;
+    justify-content: center;
+}
+.top{height: 38px;}
+.verano{
+    background: radial-gradient(ellipse, rgb(213, 241, 252), rgb(23, 159, 250), rgb(100, 224, 255));
+}
+.h1v{color: whitesmoke;}
+.h2v{color: steelblue;}
+.encuesta{display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(184, 184, 184), rgb(102, 102, 102));}
+   
